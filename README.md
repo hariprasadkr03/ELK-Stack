@@ -22,6 +22,8 @@
 ### Kibana Configuration:
 ![log_in_kibana](https://user-images.githubusercontent.com/102691510/205312730-947c715f-ca73-4aa7-817a-a979b339bde0.png)
 
+
+
 ## AWS Opensearch:
 Amazon OpenSearch Service is an AWS-managed service that lets you run and scale OpenSearch clusters without having to worry about managing, monitoring, and maintaining your infrastructure, or having to build in-depth expertise in operating OpenSearch clusters.
 
