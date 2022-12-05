@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: Elk
+
+server:
+    port: 9897
+
+logging:
+    file: D:\Hari\elastic-stack\logs\logs.log
