@@ -26,6 +26,8 @@
 
 ## AWS Opensearch:
 Amazon OpenSearch Service is an AWS-managed service that lets you run and scale OpenSearch clusters without having to worry about managing, monitoring, and maintaining your infrastructure, or having to build in-depth expertise in operating OpenSearch clusters.
+![image](https://user-images.githubusercontent.com/102691510/205606287-fecfb110-21ca-41ab-82ce-79ae6096ebd7.png)
+
 
 ### ELK Stack Demo:
 ![aws-opeansearch](https://user-images.githubusercontent.com/102691510/205316655-791e9081-6bd5-479f-bc25-18ebfdea7085.png)
