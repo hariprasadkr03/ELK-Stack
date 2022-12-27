@@ -5,7 +5,7 @@
 #### Open source. We as of now have heap of apparatuses which can do the enchantment whenever utilized appropriately together. One such famous arrangement of devices are Versatile Inquiry, Logstash and Kibana - together alluded as ELK stack. They are utilized for looking, breaking down, and imagining log information in a continuous.
 
 ## ELK Stack Architecture:
-#### ![image](https://user-images.githubusercontent.com/102691510/205308703-2d1ac42d-387f-4630-855c-1b541f455f71.png)
+#### ![image](https://user-images.githubusercontent.com/102691510/209627390-afae551f-b003-4b04-b705-913cdbeeed8d.png)
 #### Elasticsearch is a distributed search and analytics engine built on Apache Lucene. Support for various languages, high performance, and schema-free JSON documents makes Elasticsearch an ideal choice for various log analytics and search use cases
 #### Logstash is an open-source data ingestion tool that allows you to collect data from a variety of sources, transform it, and send it to your desired destination.
 #### Kibana is a data visualization and exploration tool for reviewing logs and events. Kibana offers easy-to-use, interactive charts, pre-built aggregations and filters, and geospatial support and making it the preferred choice for visualizing data stored in Elasticsearch
